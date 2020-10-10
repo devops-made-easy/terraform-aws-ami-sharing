@@ -3,5 +3,5 @@ variable "sharing_list" {
     image_id   = string
     account_id = string
   }))
-  description = "List of objects like: {\"image_id\": \"\", \"account_id\": \"\"}"git c
+  description = "List of objects like: {\"image_id\": \"\", \"account_id\": \"\"}"
 }
